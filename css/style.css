@@ -1,0 +1,509 @@
+
+ header{
+	    background-image:url(../images/barra.jpg);
+        background-size: cover;
+        width: 100%;
+        max-width: 990px
+        height: 151px;
+        text-align: center;
+        
+        }
+.logo{
+	display: flex;
+	justify-content: flex-start;
+	padding-top: 20px; 
+ 
+}        
+.slide1{
+	border-top: 13px solid #65beb0;
+   max-width: 100%
+   height: auto;
+}
+.top{
+
+    font-family: 'Montserrat', sans-serif;
+    color:  #65beb0;
+    font-size: 25px;
+    padding-bottom: 20px;
+    position: absolute;
+	top: 150px;
+	left: 250px;
+	font-weight: 600;
+   }
+   a{
+   	color: #53A092;
+   }
+   a:hover{
+   	color: white;
+   }
+   a:active{
+   	color:  #bfea58;
+   }
+.kitsdecocina{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 170px;
+	color: #65beb0;
+	font-weight: 800;
+	margin: 
+	text-align:right;
+	position: absolute;
+	top: 360px;
+	right: 50px;
+	font-weight: bold;
+}
+.button {
+
+    background-color: #bfea58; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+}
+
+.button1 {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid #bfea58;
+    position: absolute;
+	top: 700px;
+	right: 300px;
+	border-radius: 25px;
+}
+
+.button1:hover {
+    background-color: #bfea58;
+    color: white;
+}
+
+input{
+	font-family: 'Montserrat', sans-serif;
+	color: #65beb0;
+	border-radius: 20px;
+	position: absolute;
+	top: 150px;
+	right: 30px;
+    border:1px solid #65beb0;
+    font-size: 20px;
+
+}
+input[type=text]{
+	margin-top: 8px;
+	margin-right: 16px;
+}
+
+/*RECETAS*/
+
+ header{
+	    background-image:url(../images/barra.jpg);
+        background-size: cover;
+        width: 100%;
+        max-width: 990px
+        height: 151px;
+        text-align: center;
+        
+        }
+.logo{
+	display: flex;
+	justify-content: flex-start;
+	padding-top: 20px; 
+ 
+}        
+.slide1{
+	border-top: 13px solid #65beb0;
+   max-width: 100%
+   height: auto;
+}
+.top{
+
+    font-family: 'Montserrat', sans-serif;
+    color:  #65beb0;
+    font-size: 25px;
+    padding-bottom: 20px;
+    position: absolute;
+	top: 150px;
+	left: 250px;
+	font-weight: 600;
+   }
+   a{
+   	color: #53A092;
+   }
+   a:hover{
+   	color: white;
+   }
+   a:active{
+   	color:  #bfea58;
+   }
+.kitsdecocina{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 170px;
+	color: #65beb0;
+	font-weight: 800;
+	margin: 
+	text-align:right;
+	position: absolute;
+	top: 360px;
+	right: 50px;
+	font-weight: bold;
+}
+.button {
+
+    background-color: #bfea58; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+}
+
+.button1 {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid #bfea58;
+    position: absolute;
+	top: 700px;
+	right: 300px;
+	border-radius: 25px;
+}
+
+.button1:hover {
+    background-color: #bfea58;
+    color: white;
+}
+
+input{
+	font-family: 'Montserrat', sans-serif;
+	color: #65beb0;
+	border-radius: 20px;
+	position: absolute;
+	top: 150px;
+	right: 30px;
+    border:1px solid #65beb0;
+    font-size: 20px;
+
+}
+input[type=text]{
+	margin-top: 8px;
+	margin-right: 16px;}
+	
+.aprende{
+	border-top: 13px solid #65beb0; 
+}
+.texta{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	color: white;
+	font-size: 90px;
+	position: absolute;
+	top: 420px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.EPA{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	color: white;
+	font-size: 70px;
+	position: absolute;
+	top: 750px;
+	left: 100px;
+	text-align: center;
+}
+.ingre{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	color: #65beb0;
+	font-size: 35px;
+	position: absolute;
+	top: 645px;
+	left: 700px;
+}
+.ingredientes{
+	font-family: 'Montserrat', sans-serif;
+	color: #0b1816;
+	font-size: 25px;
+	position: absolute;
+	top: 690px;
+	left: 700px;
+
+}
+.ingred{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	color: #65beb0;
+	font-size: 35px;
+	position: absolute;
+	top: 950px;
+	left: 700px;
+
+}
+.ingredi{
+	font-family: 'Montserrat', sans-serif;
+	color: #0b1816;
+	font-size: 25px;
+	position: absolute;
+	top: 1000px;
+	left: 700px;
+
+}
+/*compra*/
+
+ header{
+	    background-image:url(../images/barra.jpg);
+        background-size: cover;
+        width: 100%;
+        max-width: 990px
+        height: 151px;
+        text-align: center;
+        
+        }
+.logo{
+	display: flex;
+	justify-content: flex-start;
+	padding-top: 20px; 
+ 
+}        
+.slide1{
+	border-top: 13px solid #65beb0;
+   max-width: 100%
+   height: auto;
+}
+.top{
+
+    font-family: 'Montserrat', sans-serif;
+    color:  #65beb0;
+    font-size: 25px;
+    padding-bottom: 20px;
+    position: absolute;
+	top: 150px;
+	left: 250px;
+	font-weight: 600;
+   }
+   a{
+   	color: #53A092;
+   }
+   a:hover{
+   	color: white;
+   }
+   a:active{
+   	color:  #bfea58;
+   }
+.kitsdecocina{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 170px;
+	color: #65beb0;
+	font-weight: 800;
+	margin: 
+	text-align:right;
+	position: absolute;
+	top: 360px;
+	right: 50px;
+	font-weight: bold;
+}
+.button {
+
+    background-color: #bfea58; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+}
+
+.button1 {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid #bfea58;
+    position: absolute;
+	top: 700px;
+	right: 300px;
+	border-radius: 25px;
+}
+
+.button1:hover {
+    background-color: #bfea58;
+    color: white;
+}
+
+input{
+	font-family: 'Montserrat', sans-serif;
+	color: #65beb0;
+	border-radius: 20px;
+	position: absolute;
+	top: 150px;
+	right: 30px;
+    border:1px solid #65beb0;
+    font-size: 20px;
+
+}
+input[type=text]{
+	margin-top: 8px;
+	margin-right: 16px;}
+.cucharas{
+	border-top:  13px solid #65beb0;
+   max-width: 100%
+   height: auto;
+}
+.COMPRA1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 90px;
+	color: #8bb32c;
+	position: absolute;
+	right: 30px;
+	top:  260px;
+
+}
+.llevate{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 90px;
+	color: #65beb0;
+	position: absolute;
+	right: 30px;
+	top:  350px;
+
+}
+.cuch{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 70px;
+	color: #fea11d;
+	position: absolute;
+	right: 30px;
+	top:  430px;
+}
+.recetario{
+	position: absolute;
+	top: 630px;
+	left: 200px;
+}
+.kit{
+	position: absolute;
+	top: 630px;
+	right: 200px;
+
+}
+.cocina{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	color: black;
+	position: absolute;
+	top: 990px;
+	left: 280px;
+	text-align: center;
+}
+.kitde{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	color: black;
+	position: absolute;
+	top: 1000px;
+	right: 330px;
+	text-align: center;
+
+}
+.dolars{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	top: 1050px;
+	left: 370px;
+	text-align: center;
+
+}
+.dolares{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	color: black;
+	position: absolute;
+	top: 1030px;
+	right: 370px;
+	text-align: center;
+}
+
+.button3 {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid #bfea58;
+    position: absolute;
+	top: 1075px;
+	left: 320px;
+	border-radius: 25px;
+}
+
+.button3:hover {
+    background-color: #bfea58;
+    color: white;
+}
+.button2 {
+
+    background-color: white; 
+    color: black; 
+    border: 2px solid #bfea58;
+    position: absolute;
+	top: 1050px;
+	right: 325px;
+	border-radius: 25px;
+}
+
+.button2:hover {
+    background-color: #bfea58;
+    color: white;
+}
+/*contactos*/
+header{
+	    background-image:url(../images/barra.jpg);
+        background-size: cover;
+        width: 100%;
+        max-width: 990px
+        height: 151px;
+        text-align: center;
+        border-bottom:  13px solid #65beb0;
+        }
+iframe{
+	
+}
+
+article{
+	display: flex;
+}
+
+.columna1, .columna2{
+	flex-direction: row;
+	flex:3;
+}
